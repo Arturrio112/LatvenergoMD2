@@ -23,3 +23,7 @@ Lai palaistu klienta puses kodu atveriet izvēlētajā diektorijā terminālu un
     npm i
     npm run dev
 ```
+Šis palaidīs klienta puses lapu, kuru var redzēt pārlukā ievadot šo saiti:
+```bash
+    http://localhost:5173/
+```
